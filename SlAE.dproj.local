@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.751,C:\Users\Михальковы\Desktop\Курсач\SaveAndRead.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,=D:\Работы\Курсач (СЛАУ)\Программа\GausseDeterminant.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,D:\Работы\Курсач (СЛАУ)\Программа\MatrixAnalysis.dfm=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,D:\Работы\Курсач (СЛАУ)\Программа\UnitGausse.dfm=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,=C:\Users\Михальковы\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,D:\Работы\Курсач (СЛАУ)\Программа\Unit1.dfm=D:\Работы\Курсач (СЛАУ)\Программа\ReadFromFile.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,C:\Users\Михальковы\Desktop\Курсач\MainMenu.pas=C:\Users\Михальковы\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\Михальковы\Desktop\Курсач\UnitKramer.pas=C:\Users\Михальковы\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,=C:\Users\Михальковы\Desktop\Курсач\Help.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.479,=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.090,=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,C:\Users\Михальковы\Desktop\Курсач\SlAE.dproj=C:\Users\Михальковы\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,C:\Users\Михальковы\Desktop\Курсач\MainMenu.dfm=C:\Users\Михальковы\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.757,=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas=D:\Работы\Курсач (СЛАУ)\Программа\ReadFromFile.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,C:\Users\Михальковы\Desktop\Курсач\Unit1.pas=C:\Users\Михальковы\Desktop\Курсач\Determinant.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.730,D:\Работы\Курсач (СЛАУ)\Программа\UnitMatrix.pas=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.482,D:\Работы\Курсач (СЛАУ)\Программа\GausseAnalysis.pas=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,D:\Работы\Курсач (СЛАУ)\Программа\UnitGausse.pas=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.511,C:\Users\Михальковы\Desktop\Курсач\Determinant.pas=C:\Users\Михальковы\Desktop\Курсач\KramerDeterminant.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.934,D:\Работы\Курсач (СЛАУ)\Программа\ReadFromFile.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,C:\Users\Михальковы\Desktop\Курсач\Unit1.dfm=C:\Users\Михальковы\Desktop\Курсач\KramerAnalysis.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,D:\Работы\Курсач (СЛАУ)\Программа\MatrixAnalysis.pas=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.482,D:\Работы\Курсач (СЛАУ)\Программа\GausseAnalysis.dfm=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.730,D:\Работы\Курсач (СЛАУ)\Программа\UnitMatrix.dfm=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.790,=C:\Users\Михальковы\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,=C:\Users\Михальковы\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,C:\Users\Михальковы\Desktop\Курсач\Unit1.pas=C:\Users\Михальковы\Desktop\Курсач\SaveAndRead.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,C:\Users\Михальковы\Desktop\Курсач\Unit1.pas=C:\Users\Михальковы\Desktop\Курсач\KramerAnalysis.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.297,=C:\Users\Михальковы\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.916,D:\Работы\Курсач (СЛАУ)\Программа\MatrixDeterminant.pas=D:\Работы\Курсач (СЛАУ)\Программа\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\Михальковы\Desktop\Курсач\UnitKramer.dfm=C:\Users\Михальковы\Desktop\Курсач\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,=C:\Users\Михальковы\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.376,=C:\Users\Михальковы\Desktop\Курсач\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="MainMenu.pas"/>
+    <File Path="MainMenu.dfm"/>
+    <File Path="UnitMatrix.pas"/>
+    <File Path="UnitMatrix.dfm"/>
+    <File Path="MatrixAnalysis.pas"/>
+    <File Path="MatrixAnalysis.dfm"/>
+    <File Path="MatrixDeterminant.pas"/>
+    <File Path="UnitKramer.pas"/>
+    <File Path="UnitKramer.dfm"/>
+    <File Path="KramerAnalysis.pas"/>
+    <File Path="KramerAnalysis.dfm"/>
+    <File Path="KramerDeterminant.pas"/>
+    <File Path="UnitGausse.pas"/>
+    <File Path="UnitGausse.dfm"/>
+    <File Path="GausseAnalysis.pas"/>
+    <File Path="GausseAnalysis.dfm"/>
+    <File Path="GausseDeterminant.pas"/>
+    <File Path="Help.pas"/>
+    <File Path="Help.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
